@@ -28,6 +28,15 @@ namespace Semana1_C_
 
         static void ejer2()
         {
+            Console.Write("Ingrese su primer número: ");
+            int Num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Ingrese su segundo número: ");
+            int Num2  = Convert.ToInt32(Console.ReadLine());
+            double division = Num1 / Num2;
+            Console.WriteLine("La suma entre ambos números es: " + (Num1 + Num2));
+            Console.WriteLine("La resta entre ambos números es: " + (Num1 - Num2));
+            Console.WriteLine("La multiplicación entre ambos números es: " + (Num1 * Num2));
+            Console.WriteLine("La división entre ambos números es: " + division);
         }
     }
 }
