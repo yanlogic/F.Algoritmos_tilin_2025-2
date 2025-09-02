@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana1_C#", "Semana1_C#\Semana1_C#.csproj", "{7267724D-37AA-40EA-A277-7B2ACD4560A3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana1_Python", "Semana1_Python\Semana1_Python.pyproj", "{6BAD96D3-DF9F-4549-B3BE-F6FC67D5D187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7267724D-37AA-40EA-A277-7B2ACD4560A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7267724D-37AA-40EA-A277-7B2ACD4560A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7267724D-37AA-40EA-A277-7B2ACD4560A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7267724D-37AA-40EA-A277-7B2ACD4560A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAD96D3-DF9F-4549-B3BE-F6FC67D5D187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAD96D3-DF9F-4549-B3BE-F6FC67D5D187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B42332-1614-43EE-8FB6-DDAB40D50300}
+	EndGlobalSection
+EndGlobal
