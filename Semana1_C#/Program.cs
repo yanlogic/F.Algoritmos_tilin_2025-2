@@ -51,6 +51,13 @@ namespace Semana1_C_
 
             double raiz2 = Math.Sqrt(num);
             int redon = (int)Math.Round(num);
+            double cubo = Math.Pow(num, 3);
+            double raiz3 = Math.Pow(num, 1/3d);
+
+            Console.WriteLine("Raiz 2: " + raiz2);
+            Console.WriteLine("Redondeado: " + redon);
+            Console.WriteLine("Al cubo: " + cubo);
+            Console.WriteLine("Raiz 3: " + raiz3);
         }
     }
 }
