@@ -59,5 +59,15 @@ namespace Semana1_C_
             Console.WriteLine("Al cubo: " + cubo);
             Console.WriteLine("Raiz 3: " + raiz3);
         }
+
+        static void ejer5()
+        {
+            console.write("Ingrese su número: ");
+            string num = Console.ReadLine();
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+            console.writeline("Resto: " + (entero % 2));
+            console.writeline("División: " + (deci / 3));
+        }
     }
 }
