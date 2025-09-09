@@ -28,6 +28,11 @@ namespace Semana1_C_
 
         static void ejer2()
         {
+            Console.Write("\"Yanta\"");
+        }
+
+        static void ejer3()
+        {
             Console.Write("Ingrese su primer número: ");
             int Num1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Ingrese su segundo número: ");
@@ -37,6 +42,15 @@ namespace Semana1_C_
             Console.WriteLine("La resta entre ambos números es: " + (Num1 - Num2));
             Console.WriteLine("La multiplicación entre ambos números es: " + (Num1 * Num2));
             Console.WriteLine("La división entre ambos números es: " + division);
+        }
+
+        static void ejer4()
+        {
+            console.WriteLine("Ingrese un número decimal: ");
+            double num = Convert.ToDouble(Console.ReadLine());
+
+            double raiz2 = Math.Sqrt(num);
+            int redon = (int)Math.Round(num);
         }
     }
 }

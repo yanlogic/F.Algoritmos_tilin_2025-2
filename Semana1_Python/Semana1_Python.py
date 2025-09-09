@@ -4,6 +4,9 @@ def ejer1(): #creando método ejer1
     print(nombre, ", bienvenido al curso de Fundamentos de Algoritmos de la carrera ", carrera)
 
 def ejer2():
+    print("\"Yanta\"")
+
+def ejer3():
     x = int(input("Ingrese el valor de x: "))
     y = int(input("Ingrese  el valor de y: "))
 
