@@ -6,3 +6,11 @@ C:\Users\UPN\Downloads\uwu\FA-2025-II\Semana1_C#\obj\Debug\Semana1_C#.csproj.Cor
 C:\Users\UPN\Downloads\uwu\FA-2025-II\Semana1_C#\obj\Debug\Semana1_C#.exe
 C:\Users\UPN\Downloads\uwu\FA-2025-II\Semana1_C#\obj\Debug\Semana1_C#.pdb
 C:\Users\UPN\Downloads\uwu\FA-2025-II\Semana1_C#\obj\Debug\Semana1_C#.exe.config
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\bin\Debug\Semana1_C#.exe.config
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\bin\Debug\Semana1_C#.exe
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\bin\Debug\Semana1_C#.pdb
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\obj\Debug\Semana1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\obj\Debug\Semana1_C#.exe.config
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\obj\Debug\Semana1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\obj\Debug\Semana1_C#.exe
+C:\Users\UPN\Downloads\semana_4\Semana04\F.Algoritmos_tilin_2025-2\Semana1_C#\obj\Debug\Semana1_C#.pdb

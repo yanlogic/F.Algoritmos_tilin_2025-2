@@ -46,7 +46,7 @@ namespace Semana1_C_
 
         static void ejer4()
         {
-            console.WriteLine("Ingrese un número decimal: ");
+            Console.WriteLine("Ingrese un número decimal: ");
             double num = Convert.ToDouble(Console.ReadLine());
 
             double raiz2 = Math.Sqrt(num);
@@ -62,12 +62,12 @@ namespace Semana1_C_
 
         static void ejer5()
         {
-            console.write("Ingrese su número: ");
+            Console.Write("Ingrese su número: ");
             string num = Console.ReadLine();
             int entero = int.Parse(num);
             double deci = double.Parse(num);
-            console.writeline("Resto: " + (entero % 2));
-            console.writeline("División: " + (deci / 3));
+            Console.WriteLine("Resto: " + (entero % 2));
+            Console.WriteLine("División: " + (deci / 3));
         }
     }
 }
