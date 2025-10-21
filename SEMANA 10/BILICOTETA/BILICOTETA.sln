@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BILICOTETA", "BILICOTETA.csproj", "{C9E237B5-5083-46FD-85A5-DFECC72197DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{0219078F-6599-4F1E-BC20-23797173E872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E237B5-5083-46FD-85A5-DFECC72197DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E237B5-5083-46FD-85A5-DFECC72197DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E237B5-5083-46FD-85A5-DFECC72197DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E237B5-5083-46FD-85A5-DFECC72197DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0219078F-6599-4F1E-BC20-23797173E872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0219078F-6599-4F1E-BC20-23797173E872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0219078F-6599-4F1E-BC20-23797173E872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0219078F-6599-4F1E-BC20-23797173E872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C5C0315-1621-40A6-A239-B32DAA49A93C}
+	EndGlobalSection
+EndGlobal

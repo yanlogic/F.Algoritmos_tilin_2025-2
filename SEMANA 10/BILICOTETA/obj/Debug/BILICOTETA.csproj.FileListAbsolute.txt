@@ -1,0 +1,6 @@
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\BILICOTETA\bin\Debug\BILICOTETA.dll
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\BILICOTETA\bin\Debug\BILICOTETA.pdb
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\BILICOTETA\obj\Debug\BILICOTETA.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\BILICOTETA\obj\Debug\BILICOTETA.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\BILICOTETA\obj\Debug\BILICOTETA.dll
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\BILICOTETA\obj\Debug\BILICOTETA.pdb

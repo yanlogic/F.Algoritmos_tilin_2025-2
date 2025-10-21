@@ -1,0 +1,11 @@
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\bin\Debug\BILICOTETA.dll
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\bin\Debug\BILICOTETA.pdb
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\obj\Debug\ConsoleA.D5FB4C91.Up2Date
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\UPN\Downloads\WERFWFEWF\F.Algoritmos_tilin_2025-2\SEMANA 10\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
