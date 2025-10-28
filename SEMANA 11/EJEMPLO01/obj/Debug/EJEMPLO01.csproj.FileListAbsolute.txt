@@ -1,0 +1,8 @@
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\obj\Debug\EJEMPLO01.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\obj\Debug\EJEMPLO01.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\bin\Debug\EJEMPLO01.exe.config
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\bin\Debug\EJEMPLO01.exe
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\bin\Debug\EJEMPLO01.pdb
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\obj\Debug\EJEMPLO01.exe
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\obj\Debug\EJEMPLO01.pdb
+C:\Users\UPN\Downloads\JUIEWFDYHUWEHUFHWEHJFEW\F.Algoritmos_tilin_2025-2\SEMANA 11\EJEMPLO01\obj\Debug\EJEMPLO01.exe.config
