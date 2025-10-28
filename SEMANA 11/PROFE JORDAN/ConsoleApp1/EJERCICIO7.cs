@@ -21,19 +21,25 @@ namespace ConsoleApp1
             {
                 num[i] = rnd.Next(1,51);
                 Console.WriteLine(num[i]);
-
             }
+
             Console.WriteLine("\nIngrese el número a buscar: ");
             int buscar = int.Parse(Console.ReadLine());
+            bool b = false;
 
             for (int i = 0; i < num.Length; i++)
             {
                 if (num[i] == buscar)
-                    Console.WriteLine("Existe.");
-                else
-                    Console.WriteLine("No existe");
-                break;
+                {
+                    b = true; 
+                }
+
             }
+
+            if (b == true)
+                Console.WriteLine("Existe.");
+            else
+                Console.WriteLine("No existe");
         }
     }
 }
