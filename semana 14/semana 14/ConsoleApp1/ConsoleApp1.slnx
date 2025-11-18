@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Ejercicio2/Ejercicio2.csproj" />
+  <Project Path="ConsoleApp1.csproj" />
+</Solution>

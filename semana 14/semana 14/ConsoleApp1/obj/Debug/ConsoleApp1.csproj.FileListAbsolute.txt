@@ -1,0 +1,7 @@
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

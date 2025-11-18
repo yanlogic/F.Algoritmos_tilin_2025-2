@@ -1,0 +1,7 @@
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\yannw\Downloads\Proyectos Uni\ciclo 2\semana 14\Ejercicio2\obj\Debug\Ejercicio2.pdb
