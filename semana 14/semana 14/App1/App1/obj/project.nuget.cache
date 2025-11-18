@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1uta6CkpyQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UPN\\Downloads\\pedo\\F.Algoritmos_tilin_2025-2\\semana 14\\semana 14\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.18\\microsoft.netcore.app.runtime.win-x86.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x86.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.18\\microsoft.netcore.app.runtime.win-arm64.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-arm64.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\8.0.18\\microsoft.aspnetcore.app.runtime.win-arm64.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.18\\microsoft.netcore.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\UPN\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

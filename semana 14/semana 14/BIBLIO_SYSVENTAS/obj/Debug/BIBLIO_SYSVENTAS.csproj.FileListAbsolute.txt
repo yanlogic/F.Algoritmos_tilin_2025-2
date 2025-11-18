@@ -1,0 +1,6 @@
+C:\Users\UPN\Downloads\pedo\F.Algoritmos_tilin_2025-2\semana 14\semana 14\BIBLIO_SYSVENTAS\bin\Debug\BIBLIO_SYSVENTAS.dll
+C:\Users\UPN\Downloads\pedo\F.Algoritmos_tilin_2025-2\semana 14\semana 14\BIBLIO_SYSVENTAS\bin\Debug\BIBLIO_SYSVENTAS.pdb
+C:\Users\UPN\Downloads\pedo\F.Algoritmos_tilin_2025-2\semana 14\semana 14\BIBLIO_SYSVENTAS\obj\Debug\BIBLIO_SYSVENTAS.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\pedo\F.Algoritmos_tilin_2025-2\semana 14\semana 14\BIBLIO_SYSVENTAS\obj\Debug\BIBLIO_SYSVENTAS.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\pedo\F.Algoritmos_tilin_2025-2\semana 14\semana 14\BIBLIO_SYSVENTAS\obj\Debug\BIBLIO_SYSVENTAS.dll
+C:\Users\UPN\Downloads\pedo\F.Algoritmos_tilin_2025-2\semana 14\semana 14\BIBLIO_SYSVENTAS\obj\Debug\BIBLIO_SYSVENTAS.pdb
